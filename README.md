@@ -1,2 +1,2 @@
 # Rookie-question-bank
-A question bank for  eginners programmer.
+A question bank for Big Data Beginners.
